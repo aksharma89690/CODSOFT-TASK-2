@@ -1,16 +1,16 @@
-## Movie Rating Prediction
+# Movie Rating Prediction
 
-# Author: Akshat Kumar Sharma
+## Author: Akshat Kumar Sharma
 
-# Batch: August
+## Batch: August
 
-# Domain: Data Science
+## Domain: Data Science
 
-# Aim
+## Aim
 
 The aim of this project is to build a model that predicts movie ratings based on given features.
 
-# Datasets
+## Datasets
 
 The following datasets were used for this project:
 
