@@ -1,4 +1,3 @@
-# Codsoft-Task2
 ## Movie Rating Prediction
 
 ## Author: Akshat Kumar Sharma
